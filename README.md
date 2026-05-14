@@ -1,7 +1,7 @@
 
 # 📧 Cold Email Generator for Service-Based Companies
 
-A powerful AI-driven tool designed for business development executives (BDEs) at consulting firms like **AtliQ**. This application automates the process of extracting job requirements from career pages and generating hyper-personalized cold emails that include relevant portfolio links based on the specific tech stack of the job.
+A powerful AI-driven tool designed for business development executives (BDEs) at consulting firms. This application automates the process of extracting job requirements from career pages and generating hyper-personalized cold emails that include relevant portfolio links based on the specific tech stack of the job.
 
 ## 🚀 The Problem
 
