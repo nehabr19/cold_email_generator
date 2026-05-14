@@ -1,8 +1,3 @@
-To help you land that star on GitHub, your README should clearly explain the **problem** you’re solving (efficiently reaching out to employers) and the **tech stack** you’ve used.
-
-Here is a professional, well-formatted description you can copy-paste into your `README.md`.
-
----
 
 # 📧 Cold Email Generator for Service-Based Companies
 
@@ -88,4 +83,3 @@ numpy<2.0.0
 
 ```
 
-Does this layout cover everything you wanted to showcase, or should we add a "Future Improvements" section?
