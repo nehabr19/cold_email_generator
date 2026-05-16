@@ -67,7 +67,7 @@ streamlit run app/main.py
 
 ---
 
-### Pro-Tip for your GitHub:
+### Pro-Tip:
 
 Since you fixed those pesky **NumPy** and **Pydantic** errors, I highly recommend including a `requirements.txt` file in your repo with these specific versions to help others avoid the same "dependency hell":
 
